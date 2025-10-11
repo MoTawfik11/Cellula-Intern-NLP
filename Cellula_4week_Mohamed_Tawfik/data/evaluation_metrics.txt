@@ -1,0 +1,7 @@
+Common evaluation metrics for RAG systems include:
+- Precision@K: Measures how many of the top-K retrieved documents are relevant.
+- Recall@K: Measures how many of the total relevant documents are retrieved in top-K.
+- Mean Reciprocal Rank (MRR): Evaluates ranking quality by averaging the reciprocal of the first relevant result's rank.
+- nDCG (normalized Discounted Cumulative Gain): Evaluates ranking quality with graded relevance.
+
+These metrics ensure that retrieval brings the most relevant knowledge to the generator.
