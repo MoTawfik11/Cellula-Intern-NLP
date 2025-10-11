@@ -1,0 +1,5 @@
+DeepEval is a Python framework used to evaluate LLM and RAG systems.
+It measures how accurate, faithful, and grounded the generated answers are.
+
+It provides built-in metrics like FaithfulnessMetric, AnswerRelevancyMetric, and ContextPrecisionMetric.
+DeepEval integrates directly with LangChain pipelines for structured testing.
