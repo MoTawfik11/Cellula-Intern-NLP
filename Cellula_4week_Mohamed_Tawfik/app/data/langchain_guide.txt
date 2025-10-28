@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 LangChain is a Python framework for building applications that use large language models (LLMs).
 It provides modular components for chains, agents, retrievers, memory, and vector stores.
 
 LangChain simplifies building Retrieval-Augmented Generation systems by providing integrations with
 OpenAI, Chroma, and FAISS. It also supports ConversationBufferMemory to maintain dialogue context.
 
+=======
+LangChain is a Python framework for building applications that use large language models (LLMs).
+It provides modular components for chains, agents, retrievers, memory, and vector stores.
+
+LangChain simplifies building Retrieval-Augmented Generation systems by providing integrations with
+OpenAI, Chroma, and FAISS. It also supports ConversationBufferMemory to maintain dialogue context.
+
+>>>>>>> 714e7ee4806695fa14480467dd7ec16818e9ee2c

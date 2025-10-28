@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Retrieval-Augmented Generation (RAG) is an AI framework that improves language model accuracy
 by combining retrieval and generation. 
 
@@ -6,3 +7,13 @@ using a vector database (like Chroma or FAISS) and then generates an answer base
 context and its internal knowledge.
 
 This ensures factual accuracy, transparency, and up-to-date answers.
+=======
+Retrieval-Augmented Generation (RAG) is an AI framework that improves language model accuracy
+by combining retrieval and generation. 
+
+Instead of relying purely on its own training data, the LLM first retrieves relevant external documents
+using a vector database (like Chroma or FAISS) and then generates an answer based on both the retrieved
+context and its internal knowledge.
+
+This ensures factual accuracy, transparency, and up-to-date answers.
+>>>>>>> 714e7ee4806695fa14480467dd7ec16818e9ee2c

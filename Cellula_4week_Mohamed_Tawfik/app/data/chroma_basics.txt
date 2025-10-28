@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Chroma is an open-source vector database used to store and query document embeddings locally.
 It provides persistence, meaning the database remains on disk between runs.
 
@@ -5,3 +6,12 @@ In LangChain, you can build a Chroma store from a set of text documents, persist
 and use it as a retriever in your RAG pipeline.
 
 Chroma supports metadata filtering and fast similarity search across embeddings.
+=======
+Chroma is an open-source vector database used to store and query document embeddings locally.
+It provides persistence, meaning the database remains on disk between runs.
+
+In LangChain, you can build a Chroma store from a set of text documents, persist it locally, 
+and use it as a retriever in your RAG pipeline.
+
+Chroma supports metadata filtering and fast similarity search across embeddings.
+>>>>>>> 714e7ee4806695fa14480467dd7ec16818e9ee2c

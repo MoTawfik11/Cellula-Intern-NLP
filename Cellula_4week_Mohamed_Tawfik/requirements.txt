@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 langchain
 chromadb
 openai
 tiktoken
 gradio
 deepeval
+=======
+langchain
+chromadb
+openai
+tiktoken
+gradio
+deepeval
+>>>>>>> 714e7ee4806695fa14480467dd7ec16818e9ee2c
